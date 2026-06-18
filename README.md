@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Building efficient web applications and writing clean, scalable code.<br>
+✨ Develop efficient systems and write clean, scalable code.<br>
 📚 I'm currently expanding my knowledge in containerization with <b>Docker</b> and advanced networking.<br>
 🎯 Goals: Optimize backend architectures and deploy robust database solutions.<br>
 ⚡ Fun fact: My main development environment is customized inside <b>Linux</b> for peak productivity.<br>
