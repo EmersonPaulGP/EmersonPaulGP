@@ -1,21 +1,50 @@
-## Hi there, I'm Emerson Paul 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-**Software Developer** apasionado por crear soluciones eficientes y escalables. Me enfoco en escribir código limpio y en el aprendizaje continuo de nuevas tecnologías.
+###
 
-### Sobre mí
+<p align="left">My name is <b>Emerson Paul</b> and I'm a <b>software engineer</b> from Guatemala.</p>
 
-- 🔭 Actualmente trabajando en **proyectos personales**.
-- 💻 Recientemente desarrollé **Una API RESTful para gestión de inventarios**.
-- 🌱 Actualmente aprendiendo y profundizando en **Arquitectura Cloud**.
-- 📫 Cómo contactarme: **emersonpaulgod@gmail.com**
+###
 
-### 🛠️ Tecnologías y Herramientas
+<h2 align="left">About me</h2>
 
-- **Lenguajes:** JavaScript, Python, Java, TypeScript
-- **Frontend:** React, Vue, CSS3, Tailwind
-- **Backend:** Node.js, Express, Django, Spring Boot
-- **Bases de Datos:** PostgreSQL, MongoDB, MySQL, SQLite
-- **Herramientas & Entornos:** Git, GitHub, Docker, Linux, AntigravityIDE
+###
 
----
-⭐️ *¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios para ver mi trabajo.*
+<p align="left">
+✨ Building efficient web applications and writing clean, scalable code.<br>
+📚 I'm currently expanding my knowledge in containerization with <b>Docker</b> and advanced networking.<br>
+🎯 Goals: Optimize backend architectures and deploy robust database solutions.<br>
+⚡ Fun fact: My main development environment is customized inside <b>Linux</b> for peak productivity.<br>
+📫 How to reach me: <a href="mailto:emersonpaulgod@gmail.com">emersonpaulgod@gmail.com</a>
+</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+</div>
+
+###
